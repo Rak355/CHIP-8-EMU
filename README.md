@@ -25,3 +25,6 @@ CHIP-8 programs used by this emulator are copyrights of the respective authors
 # Screenshots
 ## Pong (2 Players)<br>
 ![pong](https://i.imgur.com/Zv7NXDg.png)
+
+## OctoJam2 (animation)<br>
+![octojam](https://i.imgur.com/ZNGO9nx.png)
