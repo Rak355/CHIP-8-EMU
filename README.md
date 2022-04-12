@@ -2,7 +2,7 @@
 A simple emulator for CHIP-8 interpreter 
 
 # Requirements
-1. Unix environment
+1. Unix environment (POSIX threads are used for cpu, display and timer cycles.)
 2. SDL2
 3. make
 4. C compiler, preferably gcc.
