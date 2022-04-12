@@ -20,7 +20,8 @@ A simple emulator for CHIP-8 interpreter
 4. Input is not clean.
 
 # Warning
-CHIP-8 programs used by this emulator are copyrights of the respective authors
+1. All illustrated CHIP-8 programs in this file have copyrights of the respective authors.
+2. This program is still in development. Some of the instructions needs corrections.
 
 # Screenshots
 ## Pong (2 Players)<br>
